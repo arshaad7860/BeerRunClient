@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:padding="8dp">
+
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rating_bar"
+        android:numStars="5"
+        android:layout_gravity="center_horizontal"
+        ></RatingBar>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:maxLines="100"
+            android:hint="Place comment here"
+            android:id="@+id/edt_comment"
+            ></EditText>
+    </com.google.android.material.textfield.TextInputLayout>
+
+</LinearLayout>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">BeerRun</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_restaurant">Nearest Distributor</string>
+    <string name="menu_subscribe_news">News</string>
+    <string name="menu_menu">Alcohol Menu</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_food_list">Alcohol List</string>
+    <string name="menu_food_detail">Alcohol Detail</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_sign_out">Logout</string>
+    <string name="menu_update">Update Info</string>
+    <string name="action_clear_cart">Clear Cart</string>
+    <string name="menu_view_order">Order History</string>
+    <string name="action_search">Search</string>
+
+    <string name="hint_address">Enter Address</string>
+    <string name="hint_preferred_address">Enter Preferred Address</string>
+
+    <string name="popular_categories">Popular Drinks</string>
+
+    <string name="best_deals">Best Deals</string>
+
+    <string name="size">Size</string>
+
+    <string name="addon">Addon</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA-z2R0mcahMtzX4d21H4xrC1DQQmA6VnI</string>
+    <string name="title_activity_tracking_order">Map</string>
+
+</resources>
